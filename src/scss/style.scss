@@ -1,4 +1,10 @@
 @import "./_background.scss";
+@import "./_variables.scss";
+@import "./_calendar.scss";
+@import "./_connect.scss";
+@import "./_crawler.scss";
+@import "./_style.scss";
+@import "./_slideshow.scss";
 @import "./_navbar.scss";
 
 body {
@@ -7,5 +13,6 @@ body {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    overflow: hide;
 }
 
